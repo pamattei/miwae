@@ -1,6 +1,6 @@
 # MIWAE
 
-Here are som implementations of the MIWAE method for handling missing data with deep generative modelling.
+Here are implementations of the MIWAE method for handling missing data with deep generative modelling.
 
 This is based on the following paper:
 
